@@ -11,7 +11,7 @@
   "highlightIngredientCookware": true,
   "groupIngredientsBySection": true,
   "defaultView": "preview",
-  "defaultRecipeFormat": "cook.md",
+  "defaultRecipeFormat": "cook",
   "showServingsScaler": true,
   "twoColumnLayout": true,
   "enableStepTracking": true,

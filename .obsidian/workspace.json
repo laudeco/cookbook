@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Menus/2026/10/2026-11-03 - Test.menu.md",
+                "file": "Dessert/Mousse au chocolat.cook",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-11-03 - Test.menu"
+              "title": "Mousse au chocolat"
             }
           }
         ]
@@ -190,9 +190,18 @@
   },
   "active": "59f8712b8a9592a2",
   "lastOpenFiles": [
+    "Gouter",
+    "Untitled.md",
+    "Dessert/Mousse au chocolat.cook",
+    "Dessert",
+    "Gouter/galette.cook",
+    "Untitled.cook.md",
+    "Untitled 1.cook.md",
     "000_template/Recette.md",
     "galette.cook.md",
     "Menus/2026/10/2026-11-03 - Test.menu.md",
+    "Menus/2026-11-03 - Test.menu.md",
+    "Menu",
     "Menus/2026/10",
     "Menus/2026",
     "Menus",
