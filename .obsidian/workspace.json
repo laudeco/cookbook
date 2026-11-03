@@ -11,15 +11,14 @@
             "id": "59f8712b8a9592a2",
             "type": "leaf",
             "state": {
-              "type": "cook",
+              "type": "markdown",
               "state": {
-                "file": "galette.cook.md",
-                "mode": "preview",
-                "scale": 1,
-                "currentStep": -1
+                "file": "Menus/2026/10/2026-11-03 - Test.menu.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "document-cook",
-              "title": "galette"
+              "icon": "lucide-file",
+              "title": "2026-11-03 - Test.menu"
             }
           }
         ]
@@ -193,6 +192,10 @@
   "lastOpenFiles": [
     "000_template/Recette.md",
     "galette.cook.md",
+    "Menus/2026/10/2026-11-03 - Test.menu.md",
+    "Menus/2026/10",
+    "Menus/2026",
+    "Menus",
     "000_template",
     "Foo.cook.md"
   ]
