@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9b06bb8d6bba383e",
+        "id": "40fc2d820e1388c3",
         "type": "tabs",
         "children": [
           {
-            "id": "59f8712b8a9592a2",
+            "id": "2ddaf55303850f05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "cook",
               "state": {
-                "file": "Dessert/Mousse au chocolat.cook",
-                "mode": "source",
-                "source": true
+                "file": "Repas/Butternut farcie aux lardons et au chèvre.cook",
+                "mode": "preview",
+                "scale": 1,
+                "currentStep": -1
               },
-              "icon": "lucide-file",
-              "title": "Mousse au chocolat"
+              "icon": "document-cook",
+              "title": "Butternut farcie aux lardons et au chèvre"
             }
           }
         ]
@@ -188,24 +189,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "59f8712b8a9592a2",
+  "active": "2ddaf55303850f05",
   "lastOpenFiles": [
-    "Gouter",
+    "Repas/Untitled.cook",
+    "Repas/arroz-de-pato.cook",
+    "Repas/Untitled.md",
+    "Repas/puree-de-saumon-pommes-de-terre-ratatouille.cook",
+    "config/auth-secret",
+    "config/users.toml",
+    "docker-compose.yml~",
+    "recipes",
+    "config",
+    "docker-compose.yml",
+    "Menus/2026/11/S46.menu.md",
+    "Menus/2026/11/S46.menu",
+    "Menus/2026/11",
+    "Menus/2026-11-03 - Test.menu.md",
+    "Repas/arroz-de-pato.jpg",
+    "Repas/puree-de-saumon-pommes-de-terre-ratatouille.jpg",
+    "Repas/boulettes-au-gochujang-et-riz-aux-legumes.jpg",
+    "Repas/nouilles-xian-au-gingembre-et-hache.png",
+    "Diner/Sandwich steak, poivrons et cheddar.png",
+    "Apero/Mini bouchées au fois gras et spéculoos.md",
+    "Dessert/CHOUQUETTES MOELLEUSES.png",
+    "Apero/Mini bouchées au fois gras et spéculoos.png",
+    "accompagnements/galettes-de-pommes-de-terre-la-meilleure-recette.jpg",
+    "000_template/Recette.md",
     "Untitled.md",
-    "Dessert/Mousse au chocolat.cook",
-    "Dessert",
-    "Gouter/galette.cook",
     "Untitled.cook.md",
     "Untitled 1.cook.md",
-    "000_template/Recette.md",
     "galette.cook.md",
     "Menus/2026/10/2026-11-03 - Test.menu.md",
-    "Menus/2026-11-03 - Test.menu.md",
-    "Menu",
-    "Menus/2026/10",
-    "Menus/2026",
-    "Menus",
-    "000_template",
     "Foo.cook.md"
   ]
 }

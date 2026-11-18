@@ -1,0 +1,10 @@
+services:
+  cookcli:
+    image: ghcr.io/cooklang/cookcli:latest
+    environment:
+      COOK_CONFIG_DIR: /config
+    ports:
+      - ":9080"
+    volumes:
+      - .:/recipes
+      - ./config:/config
